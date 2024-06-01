@@ -5,8 +5,8 @@
 
 ## AWS CLI Configuration
 - Go to [Install](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-  # Windows
-  > msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+  ### Windows
+  ``` msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi ```
 
 ## Installation
 - Go to [Install](https://developer.hashicorp.com/terraform/install)
