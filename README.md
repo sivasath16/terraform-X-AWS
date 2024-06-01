@@ -3,6 +3,9 @@
 2. AWS CLI Configuration
 3. Terraform Installation
 
+## Cloning
+Clone the repo and give the commands sequentially.
+
 ## Commands
 ```
 terraform init
